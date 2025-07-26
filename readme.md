@@ -1,4 +1,4 @@
-# Mini-MVC Educativo em PHP
+# Mini-MVC em PHP
 
 Este projeto demonstra o padrão Model-View-Controller (MVC) em um único arquivo PHP, servindo como guia educativo.
 
